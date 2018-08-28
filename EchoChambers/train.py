@@ -25,6 +25,8 @@ First Run:
                 -The entire tweet amplitude is renormalized to the number of
                 followers that user has relative to the most followed user at
                 that time
+        ToDo: Figure out how to incorporate NLP libraries to generate text to
+        accompany melodic content
     4. Construct next training dataset
 
 Next Runs:
